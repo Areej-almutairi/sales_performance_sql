@@ -37,15 +37,15 @@ This project focuses on SQL analysis, KPI reporting, and business insights gener
 
 ## Sales Analysis Results
 ### 1. Total Revenue
-![Total Revenue] (01_total_reverue.png)
+![Total Revenue](01_total_reverue.png)
 ### 2. Sales by Region
-![Region Sales] (02_region_sales.png)
+![Region Sales](02_region_sales.png)
 ### 3. Sales Representative Performance
-![Sales Rep] (03_sales_rep.png)
+![Sales Rep](03_sales_rep.png)
 ### 4. Average Discount
-![Average Discount] (04_average_discount.png)
+![Average Discount](04_average_discount.png)
 ### 5. Product Category Performance
-![Category Sales] (05_category_sales.png)
+![Category Sales](05_category_sales.png)
 
 
 ## Author
