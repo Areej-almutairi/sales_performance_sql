@@ -37,7 +37,7 @@ This project focuses on SQL analysis, KPI reporting, and business insights gener
 
 ## Sales Analysis Results
 ### 1. Total Revenue
-![Total Revenue] (01_total reverue.png)
+![Total Revenue] (01_total_reverue.png)
 ### 2. Sales by Region
 ![Region Sales] (02_region_sales.png)
 ### 3. Sales Representative Performance
