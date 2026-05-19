@@ -31,5 +31,22 @@ This project analyzes sales performance date using SQL to identify revenue trend
 ## Business Impact
 this analysis helps identify high-performing regions and optimize discount strategies to improve profitability
 
+## Dataset
+The original dataset was excluded from this repository due to file size limitations.
+This project focuses on SQL analysis, KPI reporting, and business insights generation.
+
+## Sales Analysis Results
+### 1. Total Revenue
+![Total Revenue] (01_total revenue.png)
+### 2. Sales by Region
+![Region Sales] (02_region_sales.png)
+### 3. Sales Representative Performance
+![Sales Rep] (03_sales_rep.png)
+### 4. Average Discount
+![Average Discount] (04_average_discount.png)
+### 5. Product Category Performance
+![Category Sales] (05_category_sales.PNG)
+
+
 ## Author
 Areej Almutairi
