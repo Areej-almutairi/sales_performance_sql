@@ -1,0 +1,38 @@
+-- ======================================
+-- Sales Performance Analysis Using SQL
+-- Author: Areej Almutairi
+-- ======================================
+
+-- 1. Total Sales Revenue
+SELECT
+    ROUND(SUM(Sales_Amount), 2) AS total_revenue
+FROM sales_data;
+
+-- 2. Total Sales by Region
+SELECT
+    Region,
+    SUM(Sales_Amount) AS total_revenue
+FROM sales_date
+GROUP BY Region
+ORDER BY total_revenue DESC;
+
+-- 3. Sales by Prodect Category
+SELECT
+    Product_Category,
+    SUM(Sales_Amount) AS total_sales
+From sales_data
+GROUP BY Product_category
+ORDER BY total_sales DESC;
+
+-- 4. Average Discount
+SELECT
+    ROUND(AVG(Discount), 2) AS avg_discount
+FROM sales_data
+
+--5. Sales by Sales Representative
+SELECT
+    Sales_Rep
+    SUM(Sales_Amount) AS total_sales
+FROM sales_data
+GROUP BY Sales_Rep
+ORDER BY total_sales DESC;
