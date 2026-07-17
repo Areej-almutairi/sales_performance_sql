@@ -45,7 +45,7 @@ By identifying high-performing geographical regions and assessing discounting th
 >  *To view the complete, executable SQL script containing all database queries, please refer directly to the [Sql_queries](./Sql_queries) file.*
 
 ### 1. Total Revenue
-<img src="screenshots/total_revenue.png" width="800">
+<img src="screenshots/total_reverue.png" width="800">
 
 ### 2. Sales by Region
 <img src="screenshots/region_sales.png" width="800">
