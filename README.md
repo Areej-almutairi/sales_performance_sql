@@ -45,19 +45,19 @@ By identifying high-performing geographical regions and assessing discounting th
 >  *To view the complete, executable SQL script containing all database queries, please refer directly to the [Sql_queries](./Sql_queries) file.*
 
 ### 1. Total Revenue
-<img src="total_revenue.png" width="800">
+<img src="screenshots/total_revenue.png" width="800">
 
 ### 2. Sales by Region
-<img src="region_sales.png" width="800">
+<img src="screenshots/region_sales.png" width="800">
 
 ### 3. Sales Representative Performance
-<img src="sales_rep.png" width="800">
+<img src="screenshots/sales_rep.png" width="800">
 
 ### 4. Average Discount
-<img src="average_discount.png" width="800">
+<img src="screenshots/average_discount.png" width="800">
 
 ### 5. Product Category Performance
-<img src="category_sales.png" width="800">
+<img src="screenshots/category_sales.png" width="800">
 
 ---
 
