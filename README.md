@@ -57,7 +57,7 @@ By identifying high-performing geographical regions and assessing discounting th
 <img src="screenshots/average_discount.png" width="800">
 
 ### 5. Product Category Performance
-<img src="screenshots/category_sales.png" width="800">
+<img src="screenshots/category_sales .png" width="800">
 
 ---
 
